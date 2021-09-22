@@ -1,19 +1,19 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://www.ccguzmane.com/",
+  "site_title": "Christian Guzmán - Un poco de mis pensamientos y experiencias",
+  "site_description": "Un lugar para agregar algunos de mis pensamientos y experiencias",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Desarrollo"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Development"
     },
     {
-      "keyword": "React"
+      "keyword": "Blog"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@ccguzmane",
+  "github_account": "ccguzmane"
 }
